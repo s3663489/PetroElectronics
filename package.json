@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@chec/commerce.js": "^2.8.0",
+    "del": "^6.0.0",
+    "dotenv": "^16.0.0",
+    "fancy-log": "^2.0.0",
+    "react-google-recaptcha": "^2.1.0"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
